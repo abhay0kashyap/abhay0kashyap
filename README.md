@@ -110,8 +110,8 @@ I aim to build products that are not just functional, but **thoughtful and futur
 ## 📫 Connect With Me
 
 * 🌐 **Portfolio:** [https://www.abhaykashyap.xyz](https://www.abhaykashyap.xyz)
-* 💼 **LinkedIn:** *(add your LinkedIn URL)*
-* 📧 **Email:** *(optional)*
+* 💼 **LinkedIn:** *(https://www.linkedin.com/in/abhaykashyap0/)*
+* 📧 **Email:** *(kashyapabhay745@gmail.com)*
 
 ---
 
