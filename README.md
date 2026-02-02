@@ -3,7 +3,7 @@
 </div>
 
 <img align="right" width="300" alt="my octocat" src="assets/my-octocat.png" />
-![Uploading image.png…]()
+
 
 
 </br>
