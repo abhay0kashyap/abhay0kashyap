@@ -1,26 +1,69 @@
-# Hey 👋 I'm Abhay Kashyap
+# Hey 👋 I’m Abhay Kashyap
 
-🎓 Final-year **Computer Science Engineering** student
-💻 Aspiring **Full-Stack / Frontend Developer**
-🚀 Learning by building real projects & improving every day
+🎓 **Final-year Computer Science Engineering student**
+💻 **Frontend / Product-focused Developer**
+🚀 Building modern, AI-powered web products for the future
+
+I’m passionate about **technology, product thinking, and the future of work**.
+I focus on building clean, real-world applications that combine **good UI, solid logic, and practical use cases**.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech (CSE), final year
-* 🧠 Interested in **Web Development & Product-focused projects**
-* 🔧 I enjoy turning ideas into working products
-* 🎯 Goal: Become industry-ready with strong fundamentals + solid projects
+* 🎓 Final-year B.Tech (CSE) student
+* 🧠 Interested in **Web Development, AI-powered products & future technologies**
+* 🔧 I enjoy transforming ideas into real, usable products
+* 🌱 Currently focused on **frontend depth, clean architecture, and product thinking**
+* 🎯 Long-term goal: Build impactful products and grow into a strong software engineer
+
+---
+
+## 🚧 Currently Building
+
+### 🔹 Future of Work 2035
+
+A future-focused, AI-powered web application that explores how **AI, automation, and emerging technologies** may reshape **jobs, skills, and careers** by 2035.
+
+🌐 **Live Website:** [https://futurework.abhaykashyap.xyz](https://futurework.abhaykashyap.xyz)
+💻 **GitHub Repo:** [https://github.com/abhay0kashyap/future-of-work_2035](https://github.com/abhay0kashyap/future-of-work_2035)
+
+**What this project reflects about me:**
+
+* Product-first thinking
+* Clean React + TypeScript structure
+* AI integration (Gemini API)
+* Focus on real-world relevance and future impact
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Languages:** JavaScript, TypeScript
-* **Frontend:** HTML, CSS, React
-* **Backend (learning):** Node.js
-* **Tools:** Git, GitHub, VS Code, Vercel
+**Languages**
+
+* JavaScript
+* TypeScript
+
+**Frontend**
+
+* HTML
+* CSS
+* React
+
+**Backend (Learning)**
+
+* Node.js
+
+**Tools & Platforms**
+
+* Git & GitHub
+* Vite
+* VS Code
+* Vercel
+
+**AI**
+
+* Gemini API (integration & experimentation)
 
 ---
 
@@ -28,32 +71,48 @@
 
 ### 🔹 Portfolio Website
 
-Personal portfolio showcasing my projects, skills, and experience.
-🔗 Repo: [https://github.com/abhay0kashyap/Portfolio](https://github.com/abhay0kashyap/Portfolio)
-🌐 Live: *(add Vercel link if deployed)*
+My personal portfolio showcasing my work, skills, and development journey.
+
+🌐 Live: [https://www.abhaykashyap.xyz](https://www.abhaykashyap.xyz)
+💻 Repo: [https://github.com/abhay0kashyap/Portfolio](https://github.com/abhay0kashyap/Portfolio)
 
 ---
 
 ### 🔹 Lingua Connect
 
-A project focused on language/communication concepts (work in progress).
-🔗 Repo: [https://github.com/abhay0kashyap/lingua-connect](https://github.com/abhay0kashyap/lingua-connect)
+A project focused on language and communication concepts, built as a learning and experimentation project.
+
+💻 Repo: [https://github.com/abhay0kashyap/lingua-connect](https://github.com/abhay0kashyap/lingua-connect)
 
 ---
 
 ### 🔹 Future of Work 2035
 
-Exploring how technology may shape work in the future.
-🔗 Repo: [https://github.com/abhay0kashyap/future-of-work_2035](https://github.com/abhay0kashyap/future-of-work_2035)
+A research-driven, interactive project focused on careers, skills, and technology trends.
+
+🌐 Live: [https://futurework.abhaykashyap.xyz](https://futurework.abhaykashyap.xyz)
+💻 Repo: [https://github.com/abhay0kashyap/future-of-work_2035](https://github.com/abhay0kashyap/future-of-work_2035)
+
+---
+
+## 🧠 My Philosophy
+
+I believe in:
+
+* **Learning by building**
+* **Skills over certificates**
+* **Clarity, consistency, and curiosity**
+
+I aim to build products that are not just functional, but **thoughtful and future-ready**.
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(add your LinkedIn URL)*
-* 🌐 Portfolio: *(same as above when live)*
-* 📧 Email: *(optional)*
+* 🌐 **Portfolio:** [https://www.abhaykashyap.xyz](https://www.abhaykashyap.xyz)
+* 💼 **LinkedIn:** *(add your LinkedIn URL)*
+* 📧 **Email:** *(optional)*
 
 ---
 
-⭐ *Building, learning, and shipping — one project at a time.*
+⭐ *Building for today, preparing for tomorrow.*
