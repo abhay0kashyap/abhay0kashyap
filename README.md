@@ -226,19 +226,3 @@ I try to keep things **simple, intentional, and future-ready**.
 💼 LinkedIn → *(https://www.linkedin.com/in/abhaykashyap0/)*  
 📧 Email → *(kashyapabhay745@gmail.com)*  
 
----
-
-⭐ Building quietly. Learning continuously. Preparing deliberately.<div align="center">
-  <h1>Hello there, I'm João Miranda! <img alt="hand shaking" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-</div>
-
-<img align="right" width="300" alt="my octocat" src="assets/my-octocat.png" />
-
-
-
-
-
-<p align="left">
-  <a href="https://dev.to/joaovmiranda" target="blank">
-    <img align="center" alt="dev" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="joaovmiranda" height="30" width="40" />
- 
