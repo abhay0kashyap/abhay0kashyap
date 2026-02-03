@@ -19,7 +19,7 @@ Right now, I’m focused on sharpening my frontend skills, improving how I struc
 
 My long-term goal is to grow into a developer who builds **impactful, well-thought-out software**, not just features.
 
----
+----------------------------------------------------------------------------------------------------------------
 
 ## 🚧 Currently Building
 
