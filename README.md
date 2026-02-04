@@ -7,7 +7,7 @@
 I’m interested in **technology that feels simple, useful, and human**.  
 My focus is on building products that combine **clean design, solid logic, and real-world relevance**.
 
----
+------
 
 ## 👨‍💻 About Me
 
